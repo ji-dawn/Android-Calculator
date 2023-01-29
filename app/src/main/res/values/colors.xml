@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="skyblue">#FF5EA8E6</color>
-    <color name="orange">#FFFFA500</color>
-    <color name="grey">#FFB6B7B9</color>
-    <color name="light_grey">#FFA7A8AA</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="skyblue">#0288D1</color>
+    <color name="orange">#E65100</color>
+    <color name="grey">#B6B7B9</color>
+    <color name="light_grey">#757575</color>
+    <color name="background_grey">#D6D4D4</color>
+    <color name="numpad_grey">#EDE8E8</color>
 </resources>
